@@ -44,9 +44,9 @@ const Projects = () => {
                     </div>
 
                     <div className='p-6 rounded-xl border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition'>
-                        <h3 className='text-xl font-bold mb-2'>Cloud Platform Event App</h3>
+                        <h3 className='text-xl font-bold mb-2'>GreenField Web Project</h3>
                         <p className='text-gray-400 mb-4 text-left'>
-                        Event App is a modern event management application designed to help users create, discover, and manage events effortlessly. 
+                        Green Field, a school management website that help students to register, and create their accounts, login, pay fees .... 
                         </p>
                         <div className='flex flex-wrap gap-2 mb-4'>
                             {["HTML", "CSS", "Bootstrapcss", "Laravel", "JS"].map( (tech, key) => (
@@ -56,14 +56,14 @@ const Projects = () => {
                             ))}
                         </div>
                         <div className='flex justify-between items-center my-4'>
-                            <a href="" className='text-blue-400 hover:text-blue-300 transition-colors justify-center text-center items-center'>View Project </a>
+                            <a href="https://github.com/Bongnteh-Romarick-ndzelen/Greenfield" className='text-blue-400 hover:text-blue-300 transition-colors justify-center text-center items-center'>View Project </a>
                         </div>
                     </div>
 
                     <div className='p-6 rounded-xl border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition'>
-                        <h3 className='text-xl font-bold mb-2'>Cloud Platform Event App</h3>
+                        <h3 className='text-xl font-bold mb-2'>BookStore</h3>
                         <p className='text-gray-400 mb-4 text-left'>
-                        Event App is a modern event management application designed to help users create, discover, and manage events effortlessly. 
+                         
                         </p>
                         <div className='flex flex-wrap gap-2 mb-4'>
                             {["HTML", "CSS", "Bootstrapcss", "Laravel", "JS"].map( (tech, key) => (
